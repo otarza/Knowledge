@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a49d2a8e3eeae41c","x":-500,"y":-280,"width":400,"height":400,"type":"file","file":"README.md"},
+		{"id":"99157ece0262beed","x":0,"y":-40,"width":250,"height":60,"type":"text","text":"This is my first card."}
+	],
+	"edges":[
+		{"id":"2f4cccf6d9c49c8e","fromNode":"99157ece0262beed","fromSide":"left","toNode":"a49d2a8e3eeae41c","toSide":"right"}
+	]
+}
